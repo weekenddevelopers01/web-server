@@ -1,6 +1,5 @@
 
 
-console.log("Console has printed.......................");
 
 
 
